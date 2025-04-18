@@ -1,0 +1,9 @@
+openai-whisper
+gradio
+python-docx
+transformers
+deep-translator
+gtts
+langdetect
+httpx
+torch
