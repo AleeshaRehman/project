@@ -235,7 +235,7 @@ def save_audio(audio_path):
 # Create the Gradio interface
 with gr.Blocks(theme=gr.themes.Soft(primary_hue="slate", secondary_hue="zinc")) as demo:
 
-    gr.HTML("<h1 style='text-align: center; color: black;'>Conference Management System</h1>")
+    gr.HTML("<h1 style='text-align: center; color: black;'>Cross Language Transcription with Intelligent Meeting Summary Creation</h1>")
     gr.HTML("<p style='text-align: center; color: black;'>This system allows you to upload and record audios plus transcribe, translate, summarize, and generate meeting minutes.</p>")
 
     
